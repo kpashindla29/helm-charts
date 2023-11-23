@@ -58,7 +58,7 @@ spec:
     spec:
       containers:
       - name: sampleapp
-        image: lerndevops/samples:java-app
+        image: kpashindla/mysampleapp:57
         ports:
         - containerPort: 8080
 # save the file with the above data
